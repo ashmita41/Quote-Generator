@@ -8,7 +8,7 @@ A simple JavaScript Quote Generator that displays random motivational quotes eve
 - Built with **HTML, CSS, and JavaScript**.
 
 ## 🔥 Demo  
-![Quote Generator Screenshot](images/quote-generator.png)
+![Quote Generator Screenshot](img/quote-generator.png)
 
 ## 🛠️ Tech Stack  
 - HTML  
